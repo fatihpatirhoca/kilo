@@ -1,0 +1,8 @@
+
+{
+  "name": "Kilo Kontrolü",
+  "description": "Fatih PATIR tarafından geliştirilen premium kilo ve sağlık takip asistanı.",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}
